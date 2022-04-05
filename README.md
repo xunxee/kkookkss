@@ -2,7 +2,7 @@
 
 <div align=left>
   
-  ## 🐳 ABOUT ME
+  ## 🐳 About Me
   
   - Backend Developer
   - <a href="mailto:pre0919@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pre0919@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -21,7 +21,7 @@
   <br>
   <br>
   
-  ## 😲 I've used
+  ## ⚙️ I've used
   <img src="https://img.shields.io/badge/GIT-F05033?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GITHUB-121011?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCODE-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white"/>
