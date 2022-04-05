@@ -1,16 +1,41 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkookkss&show_icons=true&theme=tokyonight)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkookkss&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=soft)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<div align=left>
+  
+  ## ABOUT ME
+  
+  - Backend Developer
+  - <a href="mailto:pre0919@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pre0919@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  - <a href="https://kkookkss.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=github&logoColor=white"/></a>
+  
+  
+  ## Tech Stack
+  <img src="https://img.shields.io/badge/PYTHON-3670A0?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django-rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  
+  <br>
+  <br>
+  
+  ## I've used
+  <img src="https://img.shields.io/badge/GIT-F05033?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-121011?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TRELLO-026AA7?style=flat-square&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  
+  <br>
+  <br>
+  
+  ## My GitHub Stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkookkss&show_icons=true&theme=github_dark)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkookkss&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  <br>
+ 
+</div>
